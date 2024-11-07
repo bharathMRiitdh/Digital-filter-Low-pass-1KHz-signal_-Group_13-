@@ -8,4 +8,3 @@ Flow Char:
 3. Filter the digital signal to remove unwanted noise (using tiva board).
 4. Convert the filtered digital signal back to analog using a DAC.
 5. Output the filtered analog signal.
-
