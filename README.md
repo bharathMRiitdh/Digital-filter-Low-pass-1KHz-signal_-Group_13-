@@ -8,3 +8,5 @@ Flow Char:
 3. Filter the digital signal to remove unwanted noise (using tiva board).
 4. Convert the filtered digital signal back to analog using a DAC.
 5. Output the filtered analog signal.
+
+![block diagram of digital filter(FIR)](https://github.com/bharathMRiitdh/Digital-filter-Low-pass-1KHz-signal_-Group_13-/blob/master/Block%20diagram.jpg)
